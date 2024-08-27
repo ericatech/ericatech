@@ -66,36 +66,6 @@
 </div>
 
 
-<div align="center">
-  <h2>⬇️Entre em contato:⬇️</h2>
-  <!-- Link para LinkedIn -->
-  <a href="https://www.linkedin.com/in/%C3%A9rica-aires-4056062ab/" target="_blank">
-    <img src="contatos/linkedin.png" width="50px" alt="LinkedIn">
-  </a>
-
-  <!-- Link para Instagram -->
-  <a href="https://www.instagram.com/_erica_tech_/" target="_blank">
-    <img src="contatos/social.png" width="50px" alt="Instagram">
-  </a>
-
-  <!-- Link para WhatsApp -->
-  <a href="https://wa.me/5555996068168" target="_blank">
-    <img src="contatos/icons8-whatsapp-94.png" width="50px" alt="WhatsApp">
-  </a>
-
-  <!-- Link para Email -->
-  <a href="mailto:erica.s.aires@outlook.com.br" target="_blank">
-    <img src="contatos/icons8-outlook-48.png" width="50px" alt="Email">
-  </a>
-</div>
-
-<div align="center">
-  <h2>👇🏻Confira meus projetos aqui:👇🏻</h2>
-  <img src="contatos/icons8-café-48 (1).png" width="55px" alt="Projetos">
-</div>
-
-
-
 <div style="width: 100%; text-align: center;">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=8C17E8&section=footer" style="max-width: 100%; height: 170;" alt="Imagem Responsiva">
 </div>
